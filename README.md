@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davebrogan
 - 👀 I’m interested in web audio, usability.
-- 🌱 I’m currently learning backed web (python, ORM, Postresql)
+- 🌱 I’m currently learning backed web (python, ORM, Postgres)
 - 💞️ I’m looking to collaborate on frontend frameworks? Design systems.
 
 <!---
